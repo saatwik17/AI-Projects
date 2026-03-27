@@ -14,7 +14,7 @@
 | # | Project | Description | Tech Stack | Live Demo | GitHub |
 |---|---------|-------------|------------|-----------|--------|
 | 1 | **NovaFin AI** | 🤖 AI Credit Card Advisor for Indian market with personalized recommendations, chatbot & voice | React, TypeScript, **Gemini AI**, Tailwind, 3D Tilt | [🚀 Live](https://mere-azure-jepbofbuhs.edgeone.app/) | [View Code](https://github.com/saatwik-sinha/novafin-ai) |
-
+| 2 | **Rooster Coffee** | ☕ E-commerce + **AI Voice Assistant** ⭐ | React 19, **Gemini AI Voice**, Tailwind, Vite | [🚀 Live](https://cute-tomato-r9qncsknw6.edgeone.app/) | [View Code](https://github.com/saatwik-sinha/rooster-coffee) |
 
 ---
 
