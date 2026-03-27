@@ -1,0 +1,5 @@
+{
+  "name": "NovaFin - AI Credit Architect",
+  "description": "A premium, 3D-enhanced AI agent for personalized credit card recommendations based on financial habits.",
+  "requestFramePermissions": ["microphone"]
+}
