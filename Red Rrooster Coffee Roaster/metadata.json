@@ -1,0 +1,5 @@
+{
+  "name": "Red Rooster Coffee Roaster",
+  "description": "Official website for Red Rooster Coffee Roaster in Floyd, VA. Features online shop, cafe info, subscription services, and educational tour bookings.",
+  "requestFramePermissions": ["microphone"]
+}
