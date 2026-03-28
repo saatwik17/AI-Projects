@@ -2,7 +2,7 @@
 ---
 
 ## 👨‍💻 **About Saatwik Sinha**
-**First-year B.Tech Computer Science @ Symbiosis Institute of Technology, Nagpur**  
+**First-year B.Tech Computer Science @ Symbiosis International University**  
 🚀 Passionate AI Developer • Full-Stack Web Developer • Competitive Programmer  
 **TCS Hack-O-Week Participant** • **RedHat Certified** • **AWS Academy Graduate** • **Infosys Springboard Certified**
 
