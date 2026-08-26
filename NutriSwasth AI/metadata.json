@@ -1,0 +1,6 @@
+{
+  "name": "NutriSwasth AI",
+  "description": "AI-Based Nutrition Planner for the Indian Population with regional meals, mood/routine awareness, lifestyle risk support, and voice-assisted AI guidance.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
